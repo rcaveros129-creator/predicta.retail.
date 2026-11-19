@@ -1,0 +1,16 @@
+# Apariencia del aplicativo (colores y opciones de Streamlit)
+
+[theme]
+base = "light"
+primaryColor = "#2a78d6"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f1f5fa"
+textColor = "#0b0b0b"
+
+[browser]
+# No enviar estadísticas de uso a Streamlit
+gatherUsageStats = false
+
+[client]
+# Oculta el botón "Deploy" y opciones de desarrollador del menú superior
+toolbarMode = "viewer"
