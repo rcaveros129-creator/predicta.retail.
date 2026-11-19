@@ -1,0 +1,343 @@
+﻿id_compra,fecha_pedido,fecha_recepcion,codigo,nombre,categoria,proveedor,cantidad,costo_unitario,costo_total,estado
+C00001,2025-11-26,2025-12-06,ZAP-003,Zapatillas running,Zapatillas,Calzados Trujillo (ficticio),6,95,570,Recibido
+C00002,2025-11-27,2025-12-06,CAM-003,Camisa casual a cuadros,Camisas,Confecciones Lima Norte (ficticio),6,32,192,Recibido
+C00003,2025-11-29,2025-12-07,BLU-001,Blusa manga corta,Blusas,Confecciones Lima Norte (ficticio),18,22,396,Recibido
+C00004,2025-12-02,2025-12-09,SHO-001,Short drill,Shorts,Textiles Gamarra (ficticio),18,22,396,Recibido
+C00005,2025-12-03,2025-12-07,ACC-001,Gorra,Accesorios,Importaciones Mesa Redonda (ficticio),18,10,180,Recibido
+C00006,2025-12-03,2025-12-12,VES-002,Vestido floral,Vestidos,Moda Femenina Perú (ficticio),13,42,546,Recibido
+C00007,2025-12-04,2025-12-11,SHO-002,Short de baño,Shorts,Textiles Gamarra (ficticio),14,18,252,Recibido
+C00008,2025-12-05,2025-12-13,PAN-003,Pantalón drill,Pantalones,Confecciones Lima Norte (ficticio),14,35,490,Recibido
+C00009,2025-12-05,2025-12-11,POL-004,Polo estampado,Polos,Textiles Gamarra (ficticio),40,15,600,Recibido
+C00010,2025-12-06,2025-12-10,POL-001,Polo básico algodón,Polos,Textiles Gamarra (ficticio),58,12,696,Recibido
+C00011,2025-12-06,2025-12-17,ZAP-002,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),18,75,1350,Recibido
+C00012,2025-12-08,2025-12-12,ACC-003,Medias pack x3,Accesorios,Importaciones Mesa Redonda (ficticio),45,8,360,Recibido
+C00013,2025-12-08,2025-12-17,CAM-001,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),16,30,480,Recibido
+C00014,2025-12-08,2025-12-15,PAN-002,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),23,38,874,Recibido
+C00015,2025-12-09,2025-12-17,VES-001,Vestido casual,Vestidos,Moda Femenina Perú (ficticio),11,40,440,Recibido
+C00016,2025-12-10,2025-12-16,PAN-001,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),36,38,1368,Recibido
+C00017,2025-12-10,2025-12-18,PAN-004,Jogger deportivo,Pantalones,Confecciones Lima Norte (ficticio),20,28,560,Recibido
+C00018,2025-12-12,2025-12-19,CAM-002,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),13,30,390,Recibido
+C00019,2025-12-14,2025-12-28,CAS-001,Casaca jean,Casacas,Abrigos del Sur (ficticio),11,55,605,Recibido
+C00020,2025-12-15,2025-12-22,POE-001,Polera con capucha,Poleras,Textiles Gamarra (ficticio),27,32,864,Recibido
+C00021,2025-12-15,2025-12-19,POL-005,Polo oversize,Polos,Textiles Gamarra (ficticio),16,18,288,Recibido
+C00022,2025-12-16,2025-12-21,POL-002,Polo básico algodón,Polos,Textiles Gamarra (ficticio),50,12,600,Recibido
+C00023,2025-12-16,2025-12-23,POL-003,Polo básico algodón,Polos,Textiles Gamarra (ficticio),22,12,264,Recibido
+C00024,2025-12-16,2025-12-22,SHO-002,Short de baño,Shorts,Textiles Gamarra (ficticio),14,18,252,Recibido
+C00025,2025-12-16,2025-12-25,ZAP-001,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),32,75,2400,Recibido
+C00026,2025-12-17,2025-12-20,ACC-001,Gorra,Accesorios,Importaciones Mesa Redonda (ficticio),18,10,180,Recibido
+C00027,2025-12-18,2025-12-23,POL-004,Polo estampado,Polos,Textiles Gamarra (ficticio),40,15,600,Recibido
+C00028,2025-12-19,2025-12-27,BLU-001,Blusa manga corta,Blusas,Confecciones Lima Norte (ficticio),18,22,396,Recibido
+C00029,2025-12-19,2025-12-26,SHO-001,Short drill,Shorts,Textiles Gamarra (ficticio),18,22,396,Recibido
+C00030,2025-12-19,2025-12-29,ZAP-003,Zapatillas running,Zapatillas,Calzados Trujillo (ficticio),6,95,570,Recibido
+C00031,2025-12-20,2025-12-27,PAN-003,Pantalón drill,Pantalones,Confecciones Lima Norte (ficticio),14,35,490,Recibido
+C00032,2025-12-20,2025-12-27,VES-002,Vestido floral,Vestidos,Moda Femenina Perú (ficticio),13,42,546,Recibido
+C00033,2025-12-21,2026-01-03,CHO-001,Chompa tejida,Chompas,Abrigos del Sur (ficticio),11,35,385,Recibido
+C00034,2025-12-24,2025-12-29,POL-001,Polo básico algodón,Polos,Textiles Gamarra (ficticio),58,12,696,Recibido
+C00035,2025-12-25,2026-01-03,CAM-001,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),16,30,480,Recibido
+C00036,2025-12-26,2026-01-03,PAN-004,Jogger deportivo,Pantalones,Confecciones Lima Norte (ficticio),20,28,560,Recibido
+C00037,2025-12-27,2026-01-01,ACC-003,Medias pack x3,Accesorios,Importaciones Mesa Redonda (ficticio),45,8,360,Recibido
+C00038,2025-12-27,2026-01-06,VES-001,Vestido casual,Vestidos,Moda Femenina Perú (ficticio),11,40,440,Recibido
+C00039,2025-12-28,2026-01-05,CAM-002,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),13,30,390,Recibido
+C00040,2025-12-28,2026-01-04,CAM-003,Camisa casual a cuadros,Camisas,Confecciones Lima Norte (ficticio),6,32,192,Recibido
+C00041,2025-12-28,2026-01-03,PAN-002,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),23,38,874,Recibido
+C00042,2025-12-29,2026-01-12,BUZ-001,Buzo deportivo conjunto,Buzos,Abrigos del Sur (ficticio),13,50,650,Recibido
+C00043,2025-12-30,2026-01-04,POL-004,Polo estampado,Polos,Textiles Gamarra (ficticio),40,15,600,Recibido
+C00044,2025-12-30,2026-01-11,ZAP-002,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),18,75,1350,Recibido
+C00045,2026-01-02,2026-01-07,POL-002,Polo básico algodón,Polos,Textiles Gamarra (ficticio),50,12,600,Recibido
+C00046,2026-01-02,2026-01-08,SHO-001,Short drill,Shorts,Textiles Gamarra (ficticio),18,22,396,Recibido
+C00047,2026-01-04,2026-01-10,PAN-001,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),36,38,1368,Recibido
+C00048,2026-01-04,2026-01-09,SHO-002,Short de baño,Shorts,Textiles Gamarra (ficticio),14,18,252,Recibido
+C00049,2026-01-04,2026-01-13,VES-002,Vestido floral,Vestidos,Moda Femenina Perú (ficticio),13,42,546,Recibido
+C00050,2026-01-09,2026-01-15,ACC-001,Gorra,Accesorios,Importaciones Mesa Redonda (ficticio),18,10,180,Recibido
+C00051,2026-01-09,2026-01-17,BLU-001,Blusa manga corta,Blusas,Confecciones Lima Norte (ficticio),18,22,396,Recibido
+C00052,2026-01-09,2026-01-15,POL-005,Polo oversize,Polos,Textiles Gamarra (ficticio),16,18,288,Recibido
+C00053,2026-01-10,2026-01-17,POL-003,Polo básico algodón,Polos,Textiles Gamarra (ficticio),22,12,264,Recibido
+C00054,2026-01-11,2026-01-18,PAN-003,Pantalón drill,Pantalones,Confecciones Lima Norte (ficticio),14,35,490,Recibido
+C00055,2026-01-17,2026-01-21,POL-004,Polo estampado,Polos,Textiles Gamarra (ficticio),40,15,600,Recibido
+C00056,2026-01-20,2026-01-24,SHO-002,Short de baño,Shorts,Textiles Gamarra (ficticio),14,18,252,Recibido
+C00057,2026-01-21,2026-01-30,ZAP-001,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),32,75,2400,Recibido
+C00058,2026-01-22,2026-02-05,CAS-002,Casaca cortaviento,Casacas,Abrigos del Sur (ficticio),13,48,624,Recibido
+C00059,2026-01-22,2026-02-01,VES-001,Vestido casual,Vestidos,Moda Femenina Perú (ficticio),11,40,440,Recibido
+C00060,2026-01-22,2026-02-02,ZAP-002,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),18,75,1350,Recibido
+C00061,2026-01-22,2026-02-03,ZAP-003,Zapatillas running,Zapatillas,Calzados Trujillo (ficticio),6,95,570,Recibido
+C00062,2026-01-23,2026-01-30,PAN-004,Jogger deportivo,Pantalones,Confecciones Lima Norte (ficticio),20,28,560,Recibido
+C00063,2026-01-23,2026-01-30,POL-001,Polo básico algodón,Polos,Textiles Gamarra (ficticio),58,12,696,Recibido
+C00064,2026-01-24,2026-02-02,CAM-001,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),16,30,480,Recibido
+C00065,2026-01-24,2026-02-03,VES-002,Vestido floral,Vestidos,Moda Femenina Perú (ficticio),13,42,546,Recibido
+C00066,2026-01-25,2026-01-31,ACC-003,Medias pack x3,Accesorios,Importaciones Mesa Redonda (ficticio),45,8,360,Recibido
+C00067,2026-01-27,2026-02-01,POL-002,Polo básico algodón,Polos,Textiles Gamarra (ficticio),50,12,600,Recibido
+C00068,2026-01-30,2026-02-03,SHO-001,Short drill,Shorts,Textiles Gamarra (ficticio),18,22,396,Recibido
+C00069,2026-02-01,2026-02-10,CAM-003,Camisa casual a cuadros,Camisas,Confecciones Lima Norte (ficticio),6,32,192,Recibido
+C00070,2026-02-01,2026-02-08,SHO-002,Short de baño,Shorts,Textiles Gamarra (ficticio),14,18,252,Recibido
+C00071,2026-02-02,2026-02-05,ACC-001,Gorra,Accesorios,Importaciones Mesa Redonda (ficticio),18,10,180,Recibido
+C00072,2026-02-03,2026-02-10,PAN-002,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),23,38,874,Recibido
+C00073,2026-02-04,2026-02-12,PAN-001,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),36,38,1368,Recibido
+C00074,2026-02-06,2026-02-12,BLU-001,Blusa manga corta,Blusas,Confecciones Lima Norte (ficticio),18,22,396,Recibido
+C00075,2026-02-06,2026-02-10,POL-004,Polo estampado,Polos,Textiles Gamarra (ficticio),40,15,600,Recibido
+C00076,2026-02-08,2026-02-15,POL-005,Polo oversize,Polos,Textiles Gamarra (ficticio),16,18,288,Recibido
+C00077,2026-02-12,2026-02-22,VES-002,Vestido floral,Vestidos,Moda Femenina Perú (ficticio),13,42,546,Recibido
+C00078,2026-02-15,2026-02-21,PAN-004,Jogger deportivo,Pantalones,Confecciones Lima Norte (ficticio),20,28,560,Recibido
+C00079,2026-02-15,2026-02-26,ZAP-002,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),18,75,1350,Recibido
+C00080,2026-02-17,2026-02-25,CAM-002,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),13,30,390,Recibido
+C00081,2026-02-17,2026-02-23,SHO-002,Short de baño,Shorts,Textiles Gamarra (ficticio),14,18,252,Recibido
+C00082,2026-02-18,2026-02-23,POL-003,Polo básico algodón,Polos,Textiles Gamarra (ficticio),22,12,264,Recibido
+C00083,2026-02-19,2026-02-23,ACC-003,Medias pack x3,Accesorios,Importaciones Mesa Redonda (ficticio),45,8,360,Recibido
+C00084,2026-02-19,2026-03-03,ZAP-001,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),32,75,2400,Recibido
+C00085,2026-02-20,2026-02-23,ACC-001,Gorra,Accesorios,Importaciones Mesa Redonda (ficticio),18,10,180,Recibido
+C00086,2026-02-20,2026-03-01,CAM-001,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),16,30,480,Recibido
+C00087,2026-02-20,2026-02-27,PAN-001,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),36,38,1368,Recibido
+C00088,2026-02-20,2026-02-25,POL-002,Polo básico algodón,Polos,Textiles Gamarra (ficticio),50,12,600,Recibido
+C00089,2026-02-21,2026-02-27,POL-001,Polo básico algodón,Polos,Textiles Gamarra (ficticio),58,12,696,Recibido
+C00090,2026-02-21,2026-02-26,SHO-001,Short drill,Shorts,Textiles Gamarra (ficticio),18,22,396,Recibido
+C00091,2026-02-25,2026-03-03,PAN-003,Pantalón drill,Pantalones,Confecciones Lima Norte (ficticio),14,35,490,Recibido
+C00092,2026-02-25,2026-03-03,POL-004,Polo estampado,Polos,Textiles Gamarra (ficticio),40,15,600,Recibido
+C00093,2026-02-27,2026-03-06,BLU-001,Blusa manga corta,Blusas,Confecciones Lima Norte (ficticio),18,22,396,Recibido
+C00094,2026-02-28,2026-03-10,VES-001,Vestido casual,Vestidos,Moda Femenina Perú (ficticio),11,40,440,Recibido
+C00095,2026-02-28,2026-03-09,VES-002,Vestido floral,Vestidos,Moda Femenina Perú (ficticio),13,42,546,Recibido
+C00096,2026-02-28,2026-03-12,ZAP-003,Zapatillas running,Zapatillas,Calzados Trujillo (ficticio),6,95,570,Recibido
+C00097,2026-03-02,2026-03-10,PAN-004,Jogger deportivo,Pantalones,Confecciones Lima Norte (ficticio),20,28,560,Recibido
+C00098,2026-03-04,2026-03-15,BUZ-001,Buzo deportivo conjunto,Buzos,Abrigos del Sur (ficticio),13,50,650,Recibido
+C00099,2026-03-04,2026-03-14,ZAP-002,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),18,75,1350,Recibido
+C00100,2026-03-05,2026-03-08,ACC-003,Medias pack x3,Accesorios,Importaciones Mesa Redonda (ficticio),45,8,360,Recibido
+C00101,2026-03-05,2026-03-13,PAN-001,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),36,38,1368,Recibido
+C00102,2026-03-06,2026-03-15,CAM-003,Camisa casual a cuadros,Camisas,Confecciones Lima Norte (ficticio),6,32,192,Recibido
+C00103,2026-03-06,2026-03-17,CAS-001,Casaca jean,Casacas,Abrigos del Sur (ficticio),11,55,605,Recibido
+C00104,2026-03-09,2026-03-14,ACC-001,Gorra,Accesorios,Importaciones Mesa Redonda (ficticio),18,10,180,Recibido
+C00105,2026-03-10,2026-03-14,SHO-002,Short de baño,Shorts,Textiles Gamarra (ficticio),14,18,252,Recibido
+C00106,2026-03-12,2026-03-20,PAN-002,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),23,38,874,Recibido
+C00107,2026-03-14,2026-03-20,POL-002,Polo básico algodón,Polos,Textiles Gamarra (ficticio),50,12,600,Recibido
+C00108,2026-03-14,2026-03-18,POL-005,Polo oversize,Polos,Textiles Gamarra (ficticio),16,18,288,Recibido
+C00109,2026-03-15,2026-03-21,ACC-003,Medias pack x3,Accesorios,Importaciones Mesa Redonda (ficticio),45,8,360,Recibido
+C00110,2026-03-15,2026-03-24,CAM-001,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),16,30,480,Recibido
+C00111,2026-03-15,2026-03-24,CAM-002,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),13,30,390,Recibido
+C00112,2026-03-15,2026-03-22,SHO-001,Short drill,Shorts,Textiles Gamarra (ficticio),18,22,396,Recibido
+C00113,2026-03-15,2026-03-24,ZAP-001,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),32,75,2400,Recibido
+C00114,2026-03-16,2026-03-22,POE-001,Polera con capucha,Poleras,Textiles Gamarra (ficticio),27,32,864,Recibido
+C00115,2026-03-17,2026-03-21,POL-003,Polo básico algodón,Polos,Textiles Gamarra (ficticio),22,12,264,Recibido
+C00116,2026-03-18,2026-03-27,PAN-001,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),36,38,1368,Recibido
+C00117,2026-03-18,2026-03-25,PAN-004,Jogger deportivo,Pantalones,Confecciones Lima Norte (ficticio),20,28,560,Recibido
+C00118,2026-03-18,2026-03-30,ZAP-002,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),18,75,1350,Recibido
+C00119,2026-03-20,2026-03-27,POL-004,Polo estampado,Polos,Textiles Gamarra (ficticio),40,15,600,Recibido
+C00120,2026-03-21,2026-03-30,BLU-001,Blusa manga corta,Blusas,Confecciones Lima Norte (ficticio),18,22,396,Recibido
+C00121,2026-03-22,2026-04-02,CHO-001,Chompa tejida,Chompas,Abrigos del Sur (ficticio),11,35,385,Recibido
+C00122,2026-03-23,2026-03-30,POL-001,Polo básico algodón,Polos,Textiles Gamarra (ficticio),58,12,696,Recibido
+C00123,2026-03-26,2026-03-29,ACC-001,Gorra,Accesorios,Importaciones Mesa Redonda (ficticio),18,10,180,Recibido
+C00124,2026-03-26,2026-04-03,CAM-003,Camisa casual a cuadros,Camisas,Confecciones Lima Norte (ficticio),6,32,192,Recibido
+C00125,2026-03-28,2026-04-06,PAN-003,Pantalón drill,Pantalones,Confecciones Lima Norte (ficticio),14,35,490,Recibido
+C00126,2026-03-31,2026-04-07,VES-002,Vestido floral,Vestidos,Moda Femenina Perú (ficticio),13,42,546,Recibido
+C00127,2026-04-02,2026-04-10,VES-001,Vestido casual,Vestidos,Moda Femenina Perú (ficticio),11,40,440,Recibido
+C00128,2026-04-05,2026-04-11,POL-005,Polo oversize,Polos,Textiles Gamarra (ficticio),16,18,288,Recibido
+C00129,2026-04-08,2026-04-16,CAM-002,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),13,30,390,Recibido
+C00130,2026-04-09,2026-04-13,SHO-001,Short drill,Shorts,Textiles Gamarra (ficticio),18,22,396,Recibido
+C00131,2026-04-10,2026-04-20,ZAP-003,Zapatillas running,Zapatillas,Calzados Trujillo (ficticio),6,95,570,Recibido
+C00132,2026-04-11,2026-04-17,CAM-001,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),16,30,480,Recibido
+C00133,2026-04-11,2026-04-24,CAS-002,Casaca cortaviento,Casacas,Abrigos del Sur (ficticio),13,48,624,Recibido
+C00134,2026-04-11,2026-04-17,SHO-002,Short de baño,Shorts,Textiles Gamarra (ficticio),14,18,252,Recibido
+C00135,2026-04-12,2026-04-17,ACC-003,Medias pack x3,Accesorios,Importaciones Mesa Redonda (ficticio),45,8,360,Recibido
+C00136,2026-04-12,2026-04-17,POL-002,Polo básico algodón,Polos,Textiles Gamarra (ficticio),50,12,600,Recibido
+C00137,2026-04-13,2026-04-21,PAN-002,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),23,38,874,Recibido
+C00138,2026-04-13,2026-04-21,PAN-004,Jogger deportivo,Pantalones,Confecciones Lima Norte (ficticio),20,28,560,Recibido
+C00139,2026-04-15,2026-04-26,CAS-001,Casaca jean,Casacas,Abrigos del Sur (ficticio),11,55,605,Recibido
+C00140,2026-04-15,2026-04-19,POL-001,Polo básico algodón,Polos,Textiles Gamarra (ficticio),58,12,696,Recibido
+C00141,2026-04-15,2026-04-26,ZAP-002,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),18,75,1350,Recibido
+C00142,2026-04-16,2026-04-25,PAN-001,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),36,38,1368,Recibido
+C00143,2026-04-16,2026-04-27,ZAP-001,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),32,75,2400,Recibido
+C00144,2026-04-17,2026-05-01,BUZ-001,Buzo deportivo conjunto,Buzos,Abrigos del Sur (ficticio),13,50,650,Recibido
+C00145,2026-04-18,2026-04-22,POL-004,Polo estampado,Polos,Textiles Gamarra (ficticio),40,15,600,Recibido
+C00146,2026-04-20,2026-04-29,BLU-001,Blusa manga corta,Blusas,Confecciones Lima Norte (ficticio),18,22,396,Recibido
+C00147,2026-04-22,2026-04-26,POL-003,Polo básico algodón,Polos,Textiles Gamarra (ficticio),22,12,264,Recibido
+C00148,2026-04-25,2026-05-02,VES-002,Vestido floral,Vestidos,Moda Femenina Perú (ficticio),13,42,546,Recibido
+C00149,2026-04-29,2026-05-05,CAM-003,Camisa casual a cuadros,Camisas,Confecciones Lima Norte (ficticio),6,32,192,Recibido
+C00150,2026-04-29,2026-05-07,PAN-003,Pantalón drill,Pantalones,Confecciones Lima Norte (ficticio),14,35,490,Recibido
+C00151,2026-04-29,2026-05-03,POE-001,Polera con capucha,Poleras,Textiles Gamarra (ficticio),27,32,864,Recibido
+C00152,2026-04-30,2026-05-06,ACC-001,Gorra,Accesorios,Importaciones Mesa Redonda (ficticio),18,10,180,Recibido
+C00153,2026-05-04,2026-05-09,POL-005,Polo oversize,Polos,Textiles Gamarra (ficticio),16,18,288,Recibido
+C00154,2026-05-06,2026-05-12,BLU-001,Blusa manga corta,Blusas,Confecciones Lima Norte (ficticio),18,22,396,Recibido
+C00155,2026-05-06,2026-05-12,POL-001,Polo básico algodón,Polos,Textiles Gamarra (ficticio),58,12,696,Recibido
+C00156,2026-05-07,2026-05-13,CAM-001,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),16,30,480,Recibido
+C00157,2026-05-09,2026-05-15,CAM-002,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),13,30,390,Recibido
+C00158,2026-05-09,2026-05-18,ZAP-002,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),18,75,1350,Recibido
+C00159,2026-05-09,2026-05-21,ZAP-003,Zapatillas running,Zapatillas,Calzados Trujillo (ficticio),6,95,570,Recibido
+C00160,2026-05-10,2026-05-16,POL-003,Polo básico algodón,Polos,Textiles Gamarra (ficticio),22,12,264,Recibido
+C00161,2026-05-10,2026-05-17,SHO-001,Short drill,Shorts,Textiles Gamarra (ficticio),18,22,396,Recibido
+C00162,2026-05-10,2026-05-18,VES-001,Vestido casual,Vestidos,Moda Femenina Perú (ficticio),11,40,440,Recibido
+C00163,2026-05-11,2026-05-23,CAS-001,Casaca jean,Casacas,Abrigos del Sur (ficticio),11,55,605,Recibido
+C00164,2026-05-11,2026-05-18,POL-004,Polo estampado,Polos,Textiles Gamarra (ficticio),40,15,600,Recibido
+C00165,2026-05-12,2026-05-15,ACC-003,Medias pack x3,Accesorios,Importaciones Mesa Redonda (ficticio),45,8,360,Recibido
+C00166,2026-05-15,2026-05-28,CHO-001,Chompa tejida,Chompas,Abrigos del Sur (ficticio),11,35,385,Recibido
+C00167,2026-05-16,2026-05-30,CAS-002,Casaca cortaviento,Casacas,Abrigos del Sur (ficticio),13,48,624,Recibido
+C00168,2026-05-16,2026-05-24,PAN-004,Jogger deportivo,Pantalones,Confecciones Lima Norte (ficticio),20,28,560,Recibido
+C00169,2026-05-16,2026-05-21,SHO-002,Short de baño,Shorts,Textiles Gamarra (ficticio),14,18,252,Recibido
+C00170,2026-05-17,2026-05-23,PAN-002,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),23,38,874,Recibido
+C00171,2026-05-19,2026-05-23,POL-002,Polo básico algodón,Polos,Textiles Gamarra (ficticio),50,12,600,Recibido
+C00172,2026-05-19,2026-05-26,VES-002,Vestido floral,Vestidos,Moda Femenina Perú (ficticio),13,42,546,Recibido
+C00173,2026-05-21,2026-05-26,POE-001,Polera con capucha,Poleras,Textiles Gamarra (ficticio),27,32,864,Recibido
+C00174,2026-05-22,2026-05-28,ACC-001,Gorra,Accesorios,Importaciones Mesa Redonda (ficticio),18,10,180,Recibido
+C00175,2026-05-22,2026-06-02,ZAP-001,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),32,75,2400,Recibido
+C00176,2026-05-23,2026-06-01,PAN-001,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),36,38,1368,Recibido
+C00177,2026-05-25,2026-06-08,BUZ-001,Buzo deportivo conjunto,Buzos,Abrigos del Sur (ficticio),13,50,650,Recibido
+C00178,2026-05-28,2026-06-06,CAM-002,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),13,30,390,Recibido
+C00179,2026-05-29,2026-06-12,CAS-001,Casaca jean,Casacas,Abrigos del Sur (ficticio),11,55,605,Recibido
+C00180,2026-05-30,2026-06-05,POL-001,Polo básico algodón,Polos,Textiles Gamarra (ficticio),58,12,696,Recibido
+C00181,2026-05-31,2026-06-07,CAM-003,Camisa casual a cuadros,Camisas,Confecciones Lima Norte (ficticio),6,32,192,Recibido
+C00182,2026-06-03,2026-06-09,POL-005,Polo oversize,Polos,Textiles Gamarra (ficticio),16,18,288,Recibido
+C00183,2026-06-05,2026-06-13,PAN-003,Pantalón drill,Pantalones,Confecciones Lima Norte (ficticio),14,35,490,Recibido
+C00184,2026-06-05,2026-06-13,PAN-004,Jogger deportivo,Pantalones,Confecciones Lima Norte (ficticio),20,28,560,Recibido
+C00185,2026-06-06,2026-06-13,CAM-001,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),16,30,480,Recibido
+C00186,2026-06-07,2026-06-11,POE-001,Polera con capucha,Poleras,Textiles Gamarra (ficticio),27,32,864,Recibido
+C00187,2026-06-09,2026-06-15,POL-003,Polo básico algodón,Polos,Textiles Gamarra (ficticio),22,12,264,Recibido
+C00188,2026-06-10,2026-06-17,BLU-001,Blusa manga corta,Blusas,Confecciones Lima Norte (ficticio),18,22,396,Recibido
+C00189,2026-06-12,2026-06-17,ACC-003,Medias pack x3,Accesorios,Importaciones Mesa Redonda (ficticio),45,8,360,Recibido
+C00190,2026-06-12,2026-06-25,CHO-001,Chompa tejida,Chompas,Abrigos del Sur (ficticio),11,35,385,Recibido
+C00191,2026-06-13,2026-06-22,ZAP-003,Zapatillas running,Zapatillas,Calzados Trujillo (ficticio),6,95,570,Recibido
+C00192,2026-06-14,2026-06-19,POL-004,Polo estampado,Polos,Textiles Gamarra (ficticio),40,15,600,Recibido
+C00193,2026-06-15,2026-06-29,BUZ-001,Buzo deportivo conjunto,Buzos,Abrigos del Sur (ficticio),13,50,650,Recibido
+C00194,2026-06-16,2026-06-28,CAS-002,Casaca cortaviento,Casacas,Abrigos del Sur (ficticio),13,48,624,Recibido
+C00195,2026-06-17,2026-06-24,POE-001,Polera con capucha,Poleras,Textiles Gamarra (ficticio),27,32,864,Recibido
+C00196,2026-06-18,2026-06-23,SHO-001,Short drill,Shorts,Textiles Gamarra (ficticio),18,22,396,Recibido
+C00197,2026-06-19,2026-06-27,VES-001,Vestido casual,Vestidos,Moda Femenina Perú (ficticio),11,40,440,Recibido
+C00198,2026-06-20,2026-06-29,CAM-003,Camisa casual a cuadros,Camisas,Confecciones Lima Norte (ficticio),6,32,192,Recibido
+C00199,2026-06-20,2026-06-29,PAN-002,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),23,38,874,Recibido
+C00200,2026-06-20,2026-06-30,ZAP-002,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),18,75,1350,Recibido
+C00201,2026-06-21,2026-07-04,CAS-001,Casaca jean,Casacas,Abrigos del Sur (ficticio),11,55,605,Recibido
+C00202,2026-06-21,2026-06-30,PAN-004,Jogger deportivo,Pantalones,Confecciones Lima Norte (ficticio),20,28,560,Recibido
+C00203,2026-06-22,2026-06-28,POL-001,Polo básico algodón,Polos,Textiles Gamarra (ficticio),58,12,696,Recibido
+C00204,2026-06-23,2026-07-01,VES-002,Vestido floral,Vestidos,Moda Femenina Perú (ficticio),13,42,546,Recibido
+C00205,2026-06-25,2026-07-04,PAN-001,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),36,38,1368,Recibido
+C00206,2026-06-25,2026-07-01,PAN-003,Pantalón drill,Pantalones,Confecciones Lima Norte (ficticio),14,35,490,Recibido
+C00207,2026-06-27,2026-07-02,POL-005,Polo oversize,Polos,Textiles Gamarra (ficticio),16,18,288,Recibido
+C00208,2026-06-28,2026-07-02,POL-002,Polo básico algodón,Polos,Textiles Gamarra (ficticio),50,12,600,Recibido
+C00209,2026-06-28,2026-07-07,ZAP-003,Zapatillas running,Zapatillas,Calzados Trujillo (ficticio),6,95,570,Recibido
+C00210,2026-06-30,2026-07-08,CAM-002,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),13,30,390,Recibido
+C00211,2026-07-03,2026-07-15,CHO-001,Chompa tejida,Chompas,Abrigos del Sur (ficticio),11,35,385,Recibido
+C00212,2026-07-03,2026-07-10,POE-001,Polera con capucha,Poleras,Textiles Gamarra (ficticio),27,32,864,Recibido
+C00213,2026-07-03,2026-07-12,ZAP-001,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),32,75,2400,Recibido
+C00214,2026-07-04,2026-07-15,CAS-002,Casaca cortaviento,Casacas,Abrigos del Sur (ficticio),13,48,624,Recibido
+C00215,2026-07-04,2026-07-11,POL-003,Polo básico algodón,Polos,Textiles Gamarra (ficticio),22,12,264,Recibido
+C00216,2026-07-06,2026-07-18,BUZ-001,Buzo deportivo conjunto,Buzos,Abrigos del Sur (ficticio),13,50,650,Recibido
+C00217,2026-07-06,2026-07-13,CAM-003,Camisa casual a cuadros,Camisas,Confecciones Lima Norte (ficticio),6,32,192,Recibido
+C00218,2026-07-06,2026-07-14,PAN-002,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),23,38,874,Recibido
+C00219,2026-07-08,2026-07-14,CAM-001,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),16,30,480,Recibido
+C00220,2026-07-09,2026-07-13,SHO-002,Short de baño,Shorts,Textiles Gamarra (ficticio),14,18,252,Recibido
+C00221,2026-07-10,2026-07-19,VES-001,Vestido casual,Vestidos,Moda Femenina Perú (ficticio),11,40,440,Recibido
+C00222,2026-07-11,2026-07-22,CAS-001,Casaca jean,Casacas,Abrigos del Sur (ficticio),11,55,605,Recibido
+C00223,2026-07-11,2026-07-19,PAN-001,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),36,38,1368,Recibido
+C00224,2026-07-15,2026-07-21,PAN-003,Pantalón drill,Pantalones,Confecciones Lima Norte (ficticio),14,35,490,Recibido
+C00225,2026-07-15,2026-07-26,ZAP-003,Zapatillas running,Zapatillas,Calzados Trujillo (ficticio),6,95,570,Recibido
+C00226,2026-07-16,2026-07-22,ACC-003,Medias pack x3,Accesorios,Importaciones Mesa Redonda (ficticio),45,8,360,Recibido
+C00227,2026-07-17,2026-07-30,CHO-001,Chompa tejida,Chompas,Abrigos del Sur (ficticio),11,35,385,Recibido
+C00228,2026-07-18,2026-07-24,POL-001,Polo básico algodón,Polos,Textiles Gamarra (ficticio),58,12,696,Recibido
+C00229,2026-07-18,2026-07-29,ZAP-002,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),18,75,1350,Recibido
+C00230,2026-07-19,2026-07-27,CAM-002,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),13,30,390,Recibido
+C00231,2026-07-19,2026-07-27,PAN-004,Jogger deportivo,Pantalones,Confecciones Lima Norte (ficticio),20,28,560,Recibido
+C00232,2026-07-19,2026-07-25,POE-001,Polera con capucha,Poleras,Textiles Gamarra (ficticio),27,32,864,Recibido
+C00233,2026-07-19,2026-07-25,POL-006,Polo dry-fit deportivo,Polos,Textiles Gamarra (ficticio),29,16,464,Recibido
+C00234,2026-07-21,2026-07-27,BLU-001,Blusa manga corta,Blusas,Confecciones Lima Norte (ficticio),18,22,396,Recibido
+C00235,2026-07-21,2026-08-04,CAS-002,Casaca cortaviento,Casacas,Abrigos del Sur (ficticio),13,48,624,Recibido
+C00236,2026-07-21,2026-07-26,POL-005,Polo oversize,Polos,Textiles Gamarra (ficticio),16,18,288,Recibido
+C00237,2026-07-24,2026-08-04,BUZ-001,Buzo deportivo conjunto,Buzos,Abrigos del Sur (ficticio),13,50,650,Recibido
+C00238,2026-07-24,2026-08-05,CAS-001,Casaca jean,Casacas,Abrigos del Sur (ficticio),11,55,605,Recibido
+C00239,2026-07-24,2026-08-03,ZAP-001,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),32,75,2400,Recibido
+C00240,2026-07-25,2026-08-03,CAM-001,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),16,30,480,Recibido
+C00241,2026-07-26,2026-08-01,ACC-001,Gorra,Accesorios,Importaciones Mesa Redonda (ficticio),18,10,180,Recibido
+C00242,2026-07-28,2026-08-04,POL-004,Polo estampado,Polos,Textiles Gamarra (ficticio),40,15,600,Recibido
+C00243,2026-07-28,2026-08-04,VES-001,Vestido casual,Vestidos,Moda Femenina Perú (ficticio),11,40,440,Recibido
+C00244,2026-07-30,2026-08-07,PAN-001,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),36,38,1368,Recibido
+C00245,2026-07-30,2026-08-08,PAN-002,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),23,38,874,Recibido
+C00246,2026-07-30,2026-08-03,POE-001,Polera con capucha,Poleras,Textiles Gamarra (ficticio),27,32,864,Recibido
+C00247,2026-07-31,2026-08-07,PAN-003,Pantalón drill,Pantalones,Confecciones Lima Norte (ficticio),14,35,490,Recibido
+C00248,2026-08-02,2026-08-09,POL-003,Polo básico algodón,Polos,Textiles Gamarra (ficticio),22,12,264,Recibido
+C00249,2026-08-02,2026-08-08,POL-006,Polo dry-fit deportivo,Polos,Textiles Gamarra (ficticio),29,16,464,Recibido
+C00250,2026-08-04,2026-08-12,CAM-002,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),13,30,390,Recibido
+C00251,2026-08-06,2026-08-19,CHO-001,Chompa tejida,Chompas,Abrigos del Sur (ficticio),11,35,385,Recibido
+C00252,2026-08-07,2026-08-10,ACC-003,Medias pack x3,Accesorios,Importaciones Mesa Redonda (ficticio),45,8,360,Recibido
+C00253,2026-08-07,2026-08-15,CAM-003,Camisa casual a cuadros,Camisas,Confecciones Lima Norte (ficticio),6,32,192,Recibido
+C00254,2026-08-08,2026-08-20,CAS-001,Casaca jean,Casacas,Abrigos del Sur (ficticio),11,55,605,Recibido
+C00255,2026-08-08,2026-08-20,ZAP-002,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),18,75,1350,Recibido
+C00256,2026-08-10,2026-08-16,POL-002,Polo básico algodón,Polos,Textiles Gamarra (ficticio),50,12,600,Recibido
+C00257,2026-08-12,2026-08-18,PAN-004,Jogger deportivo,Pantalones,Confecciones Lima Norte (ficticio),20,28,560,Recibido
+C00258,2026-08-12,2026-08-21,ZAP-003,Zapatillas running,Zapatillas,Calzados Trujillo (ficticio),6,95,570,Recibido
+C00259,2026-08-13,2026-08-19,POL-001,Polo básico algodón,Polos,Textiles Gamarra (ficticio),58,12,696,Recibido
+C00260,2026-08-15,2026-08-26,CAS-002,Casaca cortaviento,Casacas,Abrigos del Sur (ficticio),13,48,624,Recibido
+C00261,2026-08-15,2026-08-20,POL-005,Polo oversize,Polos,Textiles Gamarra (ficticio),16,18,288,Recibido
+C00262,2026-08-16,2026-08-26,VES-002,Vestido floral,Vestidos,Moda Femenina Perú (ficticio),13,42,546,Recibido
+C00263,2026-08-17,2026-08-28,BUZ-001,Buzo deportivo conjunto,Buzos,Abrigos del Sur (ficticio),13,50,650,Recibido
+C00264,2026-08-21,2026-08-26,POE-001,Polera con capucha,Poleras,Textiles Gamarra (ficticio),27,32,864,Recibido
+C00265,2026-08-21,2026-08-27,SHO-002,Short de baño,Shorts,Textiles Gamarra (ficticio),14,18,252,Recibido
+C00266,2026-08-25,2026-09-02,PAN-003,Pantalón drill,Pantalones,Confecciones Lima Norte (ficticio),14,35,490,Recibido
+C00267,2026-08-25,2026-09-03,ZAP-001,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),32,75,2400,Recibido
+C00268,2026-08-26,2026-09-04,CAM-001,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),16,30,480,Recibido
+C00269,2026-08-26,2026-09-01,SHO-001,Short drill,Shorts,Textiles Gamarra (ficticio),18,22,396,Recibido
+C00270,2026-08-28,2026-09-08,CAS-001,Casaca jean,Casacas,Abrigos del Sur (ficticio),11,55,605,Recibido
+C00271,2026-08-28,2026-09-06,PAN-002,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),23,38,874,Recibido
+C00272,2026-08-29,2026-09-09,CHO-001,Chompa tejida,Chompas,Abrigos del Sur (ficticio),11,35,385,Recibido
+C00273,2026-08-29,2026-09-08,VES-001,Vestido casual,Vestidos,Moda Femenina Perú (ficticio),11,40,440,Recibido
+C00274,2026-08-30,2026-09-05,PAN-001,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),36,38,1368,Recibido
+C00275,2026-08-30,2026-09-10,ZAP-003,Zapatillas running,Zapatillas,Calzados Trujillo (ficticio),6,95,570,Recibido
+C00276,2026-08-31,2026-09-07,POL-006,Polo dry-fit deportivo,Polos,Textiles Gamarra (ficticio),29,16,464,Recibido
+C00277,2026-09-01,2026-09-06,POL-005,Polo oversize,Polos,Textiles Gamarra (ficticio),16,18,288,Recibido
+C00278,2026-09-04,2026-09-13,BLU-001,Blusa manga corta,Blusas,Confecciones Lima Norte (ficticio),18,22,396,Recibido
+C00279,2026-09-04,2026-09-17,BUZ-001,Buzo deportivo conjunto,Buzos,Abrigos del Sur (ficticio),13,50,650,Recibido
+C00280,2026-09-05,2026-09-10,ACC-003,Medias pack x3,Accesorios,Importaciones Mesa Redonda (ficticio),45,8,360,Recibido
+C00281,2026-09-05,2026-09-16,CAS-002,Casaca cortaviento,Casacas,Abrigos del Sur (ficticio),13,48,624,Recibido
+C00282,2026-09-06,2026-09-14,CAM-002,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),13,30,390,Recibido
+C00283,2026-09-06,2026-09-14,CAM-003,Camisa casual a cuadros,Camisas,Confecciones Lima Norte (ficticio),6,32,192,Recibido
+C00284,2026-09-15,2026-09-20,POL-003,Polo básico algodón,Polos,Textiles Gamarra (ficticio),22,12,264,Recibido
+C00285,2026-09-15,2026-09-21,POL-004,Polo estampado,Polos,Textiles Gamarra (ficticio),40,15,600,Recibido
+C00286,2026-09-16,2026-09-27,CAS-001,Casaca jean,Casacas,Abrigos del Sur (ficticio),11,55,605,Recibido
+C00287,2026-09-16,2026-09-21,POE-001,Polera con capucha,Poleras,Textiles Gamarra (ficticio),27,32,864,Recibido
+C00288,2026-09-16,2026-09-20,POL-001,Polo básico algodón,Polos,Textiles Gamarra (ficticio),58,12,696,Recibido
+C00289,2026-09-17,2026-09-23,ACC-001,Gorra,Accesorios,Importaciones Mesa Redonda (ficticio),18,10,180,Recibido
+C00290,2026-09-19,2026-09-28,PAN-004,Jogger deportivo,Pantalones,Confecciones Lima Norte (ficticio),20,28,560,Recibido
+C00291,2026-09-21,2026-09-27,CAM-001,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),16,30,480,Recibido
+C00292,2026-09-22,2026-10-05,CHO-001,Chompa tejida,Chompas,Abrigos del Sur (ficticio),11,35,385,Recibido
+C00293,2026-09-22,2026-10-02,VES-001,Vestido casual,Vestidos,Moda Femenina Perú (ficticio),11,40,440,Recibido
+C00294,2026-09-23,2026-09-30,PAN-002,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),23,38,874,Recibido
+C00295,2026-09-26,2026-10-09,CAS-002,Casaca cortaviento,Casacas,Abrigos del Sur (ficticio),13,48,624,Recibido
+C00296,2026-09-26,2026-10-03,PAN-003,Pantalón drill,Pantalones,Confecciones Lima Norte (ficticio),14,35,490,Recibido
+C00297,2026-09-27,2026-10-03,POL-002,Polo básico algodón,Polos,Textiles Gamarra (ficticio),50,12,600,Recibido
+C00298,2026-09-28,2026-10-02,SHO-002,Short de baño,Shorts,Textiles Gamarra (ficticio),14,18,252,Recibido
+C00299,2026-09-30,2026-10-12,ZAP-002,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),18,75,1350,Recibido
+C00300,2026-10-01,2026-10-10,ZAP-001,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),32,75,2400,Recibido
+C00301,2026-10-02,2026-10-09,POL-006,Polo dry-fit deportivo,Polos,Textiles Gamarra (ficticio),29,16,464,Recibido
+C00302,2026-10-03,2026-10-10,POL-005,Polo oversize,Polos,Textiles Gamarra (ficticio),16,18,288,Recibido
+C00303,2026-10-03,2026-10-10,SHO-001,Short drill,Shorts,Textiles Gamarra (ficticio),18,22,396,Recibido
+C00304,2026-10-08,2026-10-17,CAM-003,Camisa casual a cuadros,Camisas,Confecciones Lima Norte (ficticio),6,32,192,Recibido
+C00305,2026-10-09,2026-10-13,ACC-003,Medias pack x3,Accesorios,Importaciones Mesa Redonda (ficticio),45,8,360,Recibido
+C00306,2026-10-09,2026-10-15,PAN-001,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),36,38,1368,Recibido
+C00307,2026-10-10,2026-10-21,ZAP-003,Zapatillas running,Zapatillas,Calzados Trujillo (ficticio),6,95,570,Recibido
+C00308,2026-10-11,2026-10-17,BLU-001,Blusa manga corta,Blusas,Confecciones Lima Norte (ficticio),18,22,396,Recibido
+C00309,2026-10-11,2026-10-16,POL-001,Polo básico algodón,Polos,Textiles Gamarra (ficticio),58,12,696,Recibido
+C00310,2026-10-17,2026-10-23,CAM-002,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),13,30,390,Recibido
+C00311,2026-10-17,2026-10-27,VES-001,Vestido casual,Vestidos,Moda Femenina Perú (ficticio),11,40,440,Recibido
+C00312,2026-10-20,2026-10-29,CAM-001,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),16,30,480,Recibido
+C00313,2026-10-20,2026-10-29,PAN-003,Pantalón drill,Pantalones,Confecciones Lima Norte (ficticio),14,35,490,Recibido
+C00314,2026-10-21,2026-10-30,PAN-002,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),23,38,874,Recibido
+C00315,2026-10-22,2026-10-28,POL-003,Polo básico algodón,Polos,Textiles Gamarra (ficticio),22,12,264,Recibido
+C00316,2026-10-22,2026-10-27,POL-004,Polo estampado,Polos,Textiles Gamarra (ficticio),40,15,600,Recibido
+C00317,2026-10-23,2026-10-27,ACC-001,Gorra,Accesorios,Importaciones Mesa Redonda (ficticio),18,10,180,Recibido
+C00318,2026-10-23,2026-10-27,POE-001,Polera con capucha,Poleras,Textiles Gamarra (ficticio),27,32,864,Recibido
+C00319,2026-10-24,2026-11-03,ZAP-002,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),18,75,1350,Recibido
+C00320,2026-10-25,2026-11-07,BUZ-001,Buzo deportivo conjunto,Buzos,Abrigos del Sur (ficticio),13,50,650,Recibido
+C00321,2026-10-25,2026-11-03,PAN-004,Jogger deportivo,Pantalones,Confecciones Lima Norte (ficticio),20,28,560,Recibido
+C00322,2026-10-25,2026-10-30,POL-005,Polo oversize,Polos,Textiles Gamarra (ficticio),16,18,288,Recibido
+C00323,2026-10-27,2026-11-03,POL-006,Polo dry-fit deportivo,Polos,Textiles Gamarra (ficticio),29,16,464,Recibido
+C00324,2026-10-29,2026-11-11,CAS-002,Casaca cortaviento,Casacas,Abrigos del Sur (ficticio),13,48,624,Recibido
+C00325,2026-11-03,2026-11-15,ZAP-001,Zapatillas urbanas,Zapatillas,Calzados Trujillo (ficticio),32,75,2400,Recibido
+C00326,2026-11-06,2026-11-13,VES-002,Vestido floral,Vestidos,Moda Femenina Perú (ficticio),13,42,546,Recibido
+C00327,2026-11-07,2026-11-12,SHO-001,Short drill,Shorts,Textiles Gamarra (ficticio),18,22,396,Recibido
+C00328,2026-11-09,2026-11-15,PAN-003,Pantalón drill,Pantalones,Confecciones Lima Norte (ficticio),14,35,490,Recibido
+C00329,2026-11-09,2026-11-15,POL-002,Polo básico algodón,Polos,Textiles Gamarra (ficticio),50,12,600,Recibido
+C00330,2026-11-11,2026-11-16,POL-001,Polo básico algodón,Polos,Textiles Gamarra (ficticio),58,12,696,Recibido
+C00331,2026-11-12,2026-11-19,PAN-001,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),36,38,1368,En tránsito
+C00332,2026-11-12,2026-11-21,PAN-002,Jean clásico,Pantalones,Confecciones Lima Norte (ficticio),23,38,874,En tránsito
+C00333,2026-11-12,2026-11-16,SHO-002,Short de baño,Shorts,Textiles Gamarra (ficticio),14,18,252,Recibido
+C00334,2026-11-13,2026-11-19,ACC-001,Gorra,Accesorios,Importaciones Mesa Redonda (ficticio),18,10,180,En tránsito
+C00335,2026-11-13,2026-11-19,CAM-002,Camisa manga larga,Camisas,Confecciones Lima Norte (ficticio),13,30,390,En tránsito
+C00336,2026-11-13,2026-11-27,CAS-001,Casaca jean,Casacas,Abrigos del Sur (ficticio),11,55,605,En tránsito
+C00337,2026-11-13,2026-11-21,VES-001,Vestido casual,Vestidos,Moda Femenina Perú (ficticio),11,40,440,En tránsito
+C00338,2026-11-14,2026-11-17,ACC-003,Medias pack x3,Accesorios,Importaciones Mesa Redonda (ficticio),45,8,360,Recibido
+C00339,2026-11-15,2026-11-21,BLU-001,Blusa manga corta,Blusas,Confecciones Lima Norte (ficticio),18,22,396,En tránsito
+C00340,2026-11-15,2026-11-28,CHO-001,Chompa tejida,Chompas,Abrigos del Sur (ficticio),11,35,385,En tránsito
+C00341,2026-11-15,2026-11-22,POL-005,Polo oversize,Polos,Textiles Gamarra (ficticio),16,18,288,En tránsito
+C00342,2026-11-17,2026-11-27,ZAP-003,Zapatillas running,Zapatillas,Calzados Trujillo (ficticio),6,95,570,En tránsito

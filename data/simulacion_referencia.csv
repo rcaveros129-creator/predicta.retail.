@@ -1,0 +1,34 @@
+﻿codigo,demanda_base_simulada,temporadas_simuladas,politica_reposicion_simulada,stock_inicial,dias_sin_stock,demanda_perdida_por_falta_de_stock
+POL-001,1.92,ninguna,normal,62,0,0
+POL-002,1.68,verano,descuidada,69,24,73
+POL-003,0.72,ninguna,normal,30,1,2
+POL-004,1.32,verano,normal,46,3,4
+POL-005,0.54,ninguna,normal,22,0,0
+POL-006,0.96,ninguna,normal,29,0,0
+POE-001,0.9,invierno,normal,32,5,9
+PAN-001,1.2,escolar,normal,41,2,4
+PAN-002,0.78,ninguna,normal,31,0,0
+PAN-003,0.48,ninguna,normal,17,2,3
+PAN-004,0.66,escolar,normal,24,3,3
+PAN-005,0.09,ninguna,sobrestock,73,0,0
+CAM-001,0.54,padre,normal,21,1,1
+CAM-002,0.42,padre,normal,16,4,5
+CAM-003,0.15,ninguna,normal,6,8,9
+CAM-004,0.12,verano,sobrestock,82,0,0
+BLU-001,0.6,"madre, verano",normal,19,10,13
+VES-001,0.36,madre,normal,14,2,2
+VES-002,0.42,"madre, verano",normal,16,12,16
+VES-003,0.072,fiesta,sobrestock,59,0,0
+CAS-001,0.36,invierno,normal,13,12,15
+CAS-002,0.42,invierno,normal,18,15,18
+CAS-003,0.06,invierno,sobrestock,47,0,0
+CHO-001,0.36,invierno,normal,11,14,18
+BUZ-001,0.42,"invierno, escolar",normal,15,17,20
+SHO-001,0.6,verano,normal,23,6,8
+SHO-002,0.48,verano,normal,18,4,5
+ZAP-001,1.08,escolar,descuidada,44,58,116
+ZAP-002,0.6,escolar,normal,20,8,12
+ZAP-003,0.18,ninguna,normal,6,2,3
+ACC-001,0.6,verano,normal,19,0,0
+ACC-002,0.12,padre,sobrestock,99,0,0
+ACC-003,1.5,escolar,normal,45,0,0

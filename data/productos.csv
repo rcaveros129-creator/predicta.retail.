@@ -1,0 +1,34 @@
+﻿codigo,nombre,categoria,talla,color,precio_compra,precio_venta,stock_actual,stock_minimo,tiempo_reposicion_dias,proveedor,fecha_alta
+POL-001,Polo básico algodón,Polos,M,Negro,12,29,73,14,5,Textiles Gamarra (ficticio),2025-11-18
+POL-002,Polo básico algodón,Polos,L,Blanco,12,29,46,12,5,Textiles Gamarra (ficticio),2025-11-18
+POL-003,Polo básico algodón,Polos,S,Gris,12,29,12,6,5,Textiles Gamarra (ficticio),2025-11-18
+POL-004,Polo estampado,Polos,M,Azul,15,35,19,10,5,Textiles Gamarra (ficticio),2025-11-18
+POL-005,Polo oversize,Polos,L,Beige,18,45,6,4,5,Textiles Gamarra (ficticio),2025-11-18
+POL-006,Polo dry-fit deportivo,Polos,M,Negro,16,39,22,7,5,Textiles Gamarra (ficticio),2026-07-11
+POE-001,Polera con capucha,Poleras,M,Negro,32,79,21,7,5,Textiles Gamarra (ficticio),2025-11-18
+PAN-001,Jean clásico,Pantalones,32,Azul,38,89,7,9,7,Confecciones Lima Norte (ficticio),2025-11-18
+PAN-002,Jean clásico,Pantalones,30,Azul,38,89,6,6,7,Confecciones Lima Norte (ficticio),2025-11-18
+PAN-003,Pantalón drill,Pantalones,32,Beige,35,79,12,4,7,Confecciones Lima Norte (ficticio),2025-11-18
+PAN-004,Jogger deportivo,Pantalones,M,Negro,28,65,10,5,7,Confecciones Lima Norte (ficticio),2025-11-18
+PAN-005,Pantalón de vestir,Pantalones,34,Gris,45,110,36,2,7,Confecciones Lima Norte (ficticio),2025-11-18
+CAM-001,Camisa manga larga,Camisas,M,Celeste,30,69,13,4,7,Confecciones Lima Norte (ficticio),2025-11-18
+CAM-002,Camisa manga larga,Camisas,L,Blanco,30,69,2,3,7,Confecciones Lima Norte (ficticio),2025-11-18
+CAM-003,Camisa casual a cuadros,Camisas,M,Rojo,32,75,3,2,7,Confecciones Lima Norte (ficticio),2025-11-18
+CAM-004,Camisa de lino,Camisas,L,Blanco,40,95,39,2,7,Confecciones Lima Norte (ficticio),2025-11-18
+BLU-001,Blusa manga corta,Blusas,M,Blanco,22,55,6,5,7,Confecciones Lima Norte (ficticio),2025-11-18
+VES-001,Vestido casual,Vestidos,S,Rojo,40,99,2,3,8,Moda Femenina Perú (ficticio),2025-11-18
+VES-002,Vestido floral,Vestidos,M,Estampado,42,105,17,3,8,Moda Femenina Perú (ficticio),2025-11-18
+VES-003,Vestido de fiesta,Vestidos,M,Negro,70,169,23,2,8,Moda Femenina Perú (ficticio),2025-11-18
+CAS-001,Casaca jean,Casacas,M,Azul,55,129,5,3,12,Abrigos del Sur (ficticio),2025-11-18
+CAS-002,Casaca cortaviento,Casacas,L,Negro,48,115,16,3,12,Abrigos del Sur (ficticio),2025-11-18
+CAS-003,Casaca de cuero sintético,Casacas,M,Marrón,80,189,25,2,12,Abrigos del Sur (ficticio),2025-11-18
+CHO-001,Chompa tejida,Chompas,M,Gris,35,85,6,3,12,Abrigos del Sur (ficticio),2025-11-18
+BUZ-001,Buzo deportivo conjunto,Buzos,M,Azul marino,50,119,15,3,12,Abrigos del Sur (ficticio),2025-11-18
+SHO-001,Short drill,Shorts,32,Beige,22,49,16,5,5,Textiles Gamarra (ficticio),2025-11-18
+SHO-002,Short de baño,Shorts,M,Azul,18,45,15,4,5,Textiles Gamarra (ficticio),2025-11-18
+ZAP-001,Zapatillas urbanas,Zapatillas,40,Blanco,75,159,29,8,10,Calzados Trujillo (ficticio),2025-11-18
+ZAP-002,Zapatillas urbanas,Zapatillas,42,Negro,75,159,16,5,10,Calzados Trujillo (ficticio),2025-11-18
+ZAP-003,Zapatillas running,Zapatillas,41,Gris,95,199,3,2,10,Calzados Trujillo (ficticio),2025-11-18
+ACC-001,Gorra,Accesorios,Única,Negro,10,25,2,5,4,Importaciones Mesa Redonda (ficticio),2025-11-18
+ACC-002,Correa de cuero,Accesorios,Única,Marrón,15,39,37,2,4,Importaciones Mesa Redonda (ficticio),2025-11-18
+ACC-003,Medias pack x3,Accesorios,Única,Blanco,8,19,55,11,4,Importaciones Mesa Redonda (ficticio),2025-11-18
