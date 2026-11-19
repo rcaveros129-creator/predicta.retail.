@@ -1,0 +1,16 @@
+# Entorno virtual (cada computadora o servidor crea el suyo)
+venv/
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Modelo entrenado: se vuelve a entrenar solo si no existe
+models/*.pkl
+
+# Copias de respaldo de importaciones
+data/respaldos/
+
+# Secretos (contraseñas, claves) nunca se suben
+.streamlit/secrets.toml
